@@ -1,0 +1,37 @@
+/*Main*/
+img {
+    max-width: 100%;
+}
+#presentation , #competences , #technologies , #realisations , #contact{
+
+    color:white;
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center;
+    height:100vh;
+    width:100%;
+
+}
+/*Présentation*/
+#presentation {
+    background-image:url(./images/presentation.jpg);
+}
+/*Compétences*/
+#competences {
+    background-image:url(./images/competences.jpg);
+}
+/*Technologies*/
+#technologies {
+    background-image: url(./images/technologies.jpg);
+    font-size: 5em;
+}
+/*Réalisations*/
+#realisations {
+    background-image: url(./images/realisations.jpg);
+}
+/*Contact*/
+#contact {
+    background-image: url(./images/contact.jpg);
+
+}
+
